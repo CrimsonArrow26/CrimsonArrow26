@@ -98,7 +98,7 @@ Continuously learning and experimenting with new ideas
 <td width="35%" align="center" valign="middle">
 
 <img
-src="[YOUR_PROFILE_IMAGE_URL]"
+src="(https://drive.google.com/file/d/1dLfNmqQf3_y1l9dioDX4HEmGEt9X6NwK/view?usp=sharing)"
 alt="PRATHAMESH YEWALE"
 width="280"
 />
