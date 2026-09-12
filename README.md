@@ -69,7 +69,7 @@ I enjoy working across software development, artificial intelligence, web techno
 
 <br>
 
-Think -> Learn -> Build -> Test -> Ship -> Improve
+<b>Think -> Learn -> Build -> Test -> Ship -> Improve
 
 <h3>Currently Focused On</h3>
 
@@ -169,44 +169,34 @@ Continuously learning and experimenting with new ideas
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME]/">
+<a href="https://www.linkedin.com/in/prathamesh-yewale/">
   <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f1f1f"
+    src="https://img.shields.io/badge/LinkedIn-Connect-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
     alt="LinkedIn"
   />
 </a>
 
-<a href="https://x.com/[YOUR_X_USERNAME]">
+<a href="https://x.com/PY2607">
   <img
-    src="https://img.shields.io/badge/X-Follow-F8BBD0?style=for-the-badge&logo=x&logoColor=white&labelColor=1f1f1f"
+    src="https://img.shields.io/badge/X-Follow-333333?style=for-the-badge&logo=x&logoColor=white&labelColor=000000"
     alt="X"
   />
 </a>
 
-<a href="https://instagram.com/[YOUR_INSTAGRAM_USERNAME]">
+<a href="https://instagram.com/prathamesh_yewale26">
   <img
-    src="https://img.shields.io/badge/Instagram-Follow-FF69B4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1f1f1f"
+    src="https://img.shields.io/badge/Instagram-Follow-1f1f1f?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E1306C"
     alt="Instagram"
   />
 </a>
 
-<a href="https://www.tiktok.com/@[YOUR_TIKTOK_USERNAME]">
-  <img
-    src="https://img.shields.io/badge/TikTok-Follow-EF93C4?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=1f1f1f"
-    alt="TikTok"
-  />
-</a>
 
-<a href="https://www.youtube.com/@[YOUR_YOUTUBE_USERNAME]">
-  <img
-    src="https://img.shields.io/badge/YouTube-Subscribe-F8BBD0?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1f1f1f"
-    alt="YouTube"
-  />
-</a>
 
-<a href="mailto:[YOUR_EMAIL]">
+
+
+<a href="mailto:prathameshyewale26@gmail.com">
   <img
-    src="https://img.shields.io/badge/Email-Contact-FF69B4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f1f1f"
+    src="https://img.shields.io/badge/Email-Contact-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"
     alt="Email"
   />
 </a>
@@ -217,37 +207,9 @@ Continuously learning and experimenting with new ideas
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-
-<h3>Learn</h3>
-
-Stay curious.<br>
-Understand fundamentals.<br>
-Keep experimenting.
-
-    </td>
-    <td width="33%" align="center">
-
-<h3>Build</h3>
-
-Turn ideas into systems.<br>
-Write clean code.<br>
-Solve real problems.
-
-    </td>
-    <td width="33%" align="center">
-
-<h3>Grow</h3>
-
-Learn from failures.<br>
-Iterate relentlessly.<br>
-Build better every day.
-
-    </td>
-  </tr>
-</table>
+| 🧠 &nbsp;Learn | 🛠️ &nbsp;Build | 🚀 &nbsp;Grow |
+|:---:|:---:|:---:|
+| Stay curious.<br>Understand fundamentals.<br>Keep experimenting. | Turn ideas into systems.<br>Write clean code.<br>Solve real problems. | Learn from failures.<br>Iterate relentlessly.<br>Build better every day. |
 
 </div>
 
