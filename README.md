@@ -1,11 +1,8 @@
 <!-- =========================================================
-     🌸 PRATHAMESH YEWALE — GitHub Profile README
-     Replace all [PLACEHOLDER] values before publishing.
+     PRATHAMESH YEWALE - GitHub Profile README
 ========================================================= -->
 
 <div align="center">
-
-  <!-- 🌗 Responsive Light/Dark Banner -->
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
@@ -14,7 +11,7 @@
 
   <br>
 
-  <h1>Hey there, I'm PRATHAMESH YEWALE</h1>ALE</h1>
+  <h1>Hey there, I'm PRATHAMESH YEWALE</h1>
 
   <p>
     <img
@@ -30,44 +27,41 @@
         alt="GitHub Followers"
       />
     </a>
-
-<a href="https://github.com/CrimsonArrow26?tab=repositories">
-  <img
-    src="https://img.shields.io/github/stars/CrimsonArrow26?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=BDBDBD&labelColor=1f1f1f"
-    alt="GitHub Stars"
-  />
-</a>
-
-<a href="https://github.com/CrimsonArrow26">
-  <img
-    src="https://komarev.com/ghpvc/?username=CrimsonArrow26&style=for-the-badge&color=FFFFFF&label=PROFILE+VIEWS"
-    alt="Profile Views"
-  />
-</a>
-
+    <a href="https://github.com/CrimsonArrow26?tab=repositories">
+      <img
+        src="https://img.shields.io/github/stars/CrimsonArrow26?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=BDBDBD&labelColor=1f1f1f"
+        alt="GitHub Stars"
+      />
+    </a>
+    <a href="https://github.com/CrimsonArrow26">
+      <img
+        src="https://komarev.com/ghpvc/?username=CrimsonArrow26&style=for-the-badge&color=FFFFFF&label=PROFILE+VIEWS"
+        alt="Profile Views"
+      />
+    </a>
   </p>
 
   <p>
-    <a href="#-about-me">About Me</a>
-    &nbsp;•&nbsp;
-    <a href="#-tech-stack">Tech Stack</a>
-    &nbsp;•&nbsp;
-    <a href="#-github-activity">GitHub Activity</a>
-    &nbsp;•&nbsp;
-    <a href="#-contribution-snake">Contribution Snake</a>
-    &nbsp;•&nbsp;
-    <a href="#-connect-with-me">Connect</a>
+    <a href="#about-me">About Me</a>
+    &nbsp;|&nbsp;
+    <a href="#tech-stack">Tech Stack</a>
+    &nbsp;|&nbsp;
+    <a href="#github-activity">GitHub Activity</a>
+    &nbsp;|&nbsp;
+    <a href="#contribution-snake">Contribution Snake</a>
+    &nbsp;|&nbsp;
+    <a href="#connect-with-me">Connect</a>
   </p>
 
 </div>
 
-🌸 About Me
+## About Me
 
 <table align="center">
   <tr>
     <td width="65%" align="left" valign="middle">
 
-👨‍💻 A Little About Me
+### A Little About Me
 
 I'm PRATHAMESH YEWALE, an engineer passionate about turning ideas into elegant, practical, and scalable software.
 
@@ -75,9 +69,9 @@ I enjoy working across software development, artificial intelligence, web techno
 
 <br>
 
-💡 Think → 🧠 Learn → 🛠️ Build → 🧪 Test → 🚀 Ship → 🔁 Improve
+Think -> Learn -> Build -> Test -> Ship -> Improve
 
-🎯 Currently Focused On
+### Currently Focused On
 
 Building meaningful software projects
 
@@ -93,63 +87,49 @@ Continuously learning and experimenting with new ideas
 
 "Build something useful. Make it beautiful. Keep improving."
 
-</td>
-
-<td width="35%" align="center" valign="middle">
+    </td>
+    <td width="35%" align="center" valign="middle">
 
 <img
-src="https://drive.google.com/file/d/1dLfNmqQf3_y1l9dioDX4HEmGEt9X6NwK/view?usp=sharing"
-alt="PRATHAMESH YEWALE"
-width="280"
+  src="art/pfp.jpeg"
+  alt="PRATHAMESH YEWALE"
+  width="280"
 />
 
 <br><br>
 
 <img
-src="https://capsule-render.vercel.app/api?type=rounded&color=0:EF93C4,100:FF69B4&height=48&section=header&text=ENGINEER%20%E2%80%A2%20CREATOR%20%E2%80%A2%20LEARNER&fontSize=13&fontColor=ffffff"
-alt="Engineer Creator Learner"
+  src="https://capsule-render.vercel.app/api?type=rounded&color=0:EF93C4,100:FF69B4&height=48&section=header&text=ENGINEER%20%7C%20CREATOR%20%7C%20LEARNER&fontSize=13&fontColor=ffffff"
+  alt="Engineer Creator Learner"
 />
 
-</td>
-
+    </td>
   </tr>
 </table>
 
-💻 Tech Stack
+## Tech Stack
 
 <div align="center">
-
-<!-- Languages -->
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,css,dart,html,java,js,kotlin,powershell,python,solidity,ts" alt="Languages" />
 </p>
 
-<!-- Frontend / Frameworks -->
-
 <p>
   <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,nodejs,express,flutter,threejs,sass,tailwind,vercel,netlify" alt="Frontend and Frameworks" />
 </p>
-
-<!-- Backend / APIs / Platforms -->
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,flask,firebase,redis,postgres,mongodb,supabase,prisma,cloudflare,render,bun,vite" alt="Backend and Platforms" />
 </p>
 
-<!-- Dev Tools / Hardware / Data -->
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,bitbucket,docker,linux,vscode,postman,arduino,raspberrypi,matplotlib,powershell" alt="Tools and Hardware" />
 </p>
 
-<!-- UI / Animation / Design -->
-
 <p>
   <img src="https://skillicons.dev/icons?i=figma,framer" alt="Design Tools" />
 </p>
-
-<!-- Additional technologies from my stack -->
 
 <p>
   <img src="https://img.shields.io/badge/GSAP-111111?style=for-the-badge&logo=greensock&logoColor=FFFFFF" alt="GSAP" />
@@ -168,48 +148,41 @@ alt="Engineer Creator Learner"
 
 </div>
 
-📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img
-    src="https://streak-stats.demolab.com?user=CrimsonArrow26&theme=transparent&hide_border=true&ring=888888&fire=FFFFFF&currStreakLabel=888888&sideLabels=BDBDBD&dates=777777&currStreakNum=FFFFFF&sideNums=BDBDBD&bg_color=00000000&color=888888&line=FF69B4&point=F8BBD0&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph"
-    alt="GitHub Activity Graph"
-    width="95%"
-  />
-</a>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=CrimsonArrow26&bg_color=00000000&color=888888&line=FF69B4&point=F8BBD0&area=true&hide_border=true&custom_title=Contribution%20Graph"
+  alt="CrimsonArrow26 contribution graph"
+  width="95%"
+/>
 
 </div>
 
-🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
-
-<!--
-🐍 The executable GitHub Action is located at:
-.github/workflows/snake.yml
--->
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/CrimsonArrow26/CrimsonArrow26/output/github-snake-dark.svg"
+    srcset="https://github.com/CrimsonArrow26/CrimsonArrow26/raw/output/github-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/CrimsonArrow26/CrimsonArrow26/output/github-snake.svg"
+    srcset="https://github.com/CrimsonArrow26/CrimsonArrow26/raw/output/github-snake.svg"
   />
   <img
-    src="https://raw.githubusercontent.com/CrimsonArrow26/CrimsonArrow26/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
+    src="https://github.com/CrimsonArrow26/CrimsonArrow26/raw/output/github-snake.svg"
+    alt="GitHub contribution snake"
     width="90%"
   />
 </picture>
 
 </div>
 
-🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -257,7 +230,7 @@ alt="Engineer Creator Learner"
 
 </div>
 
-✨ Engineering Philosophy
+## Engineering Philosophy
 
 <div align="center">
 
@@ -265,34 +238,31 @@ alt="Engineer Creator Learner"
   <tr>
     <td width="33%" align="center">
 
-🧠 Learn
+### Learn
 
 Stay curious.<br>
 Understand fundamentals.<br>
 Keep experimenting.
 
-</td>
+    </td>
+    <td width="33%" align="center">
 
-<td width="33%" align="center">
-
-🛠️ Build
+### Build
 
 Turn ideas into systems.<br>
 Write clean code.<br>
 Solve real problems.
 
-</td>
+    </td>
+    <td width="33%" align="center">
 
-<td width="33%" align="center">
-
-🚀 Grow
+### Grow
 
 Learn from failures.<br>
 Iterate relentlessly.<br>
 Build better every day.
 
-</td>
-
+    </td>
   </tr>
 </table>
 
@@ -303,9 +273,9 @@ Build better every day.
 Thanks for visiting my profile!
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:222222,50:666666,100:AAAAAA&height=160&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Growing&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65"
-alt="Pink waving footer"
-width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:222222,50:666666,100:AAAAAA&height=160&section=footer&text=Keep%20Building%20%7C%20Keep%20Learning%20%7C%20Keep%20Growing&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65"
+  alt="Waving footer"
+  width="100%"
 />
 
 </div>
