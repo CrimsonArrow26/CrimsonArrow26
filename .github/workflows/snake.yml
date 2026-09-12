@@ -15,10 +15,10 @@ jobs:
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: CrimsonArrow26
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=111111&color_dots=EEEEEE,CCCCCC,999999,555555,111111
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=FFFFFF&color_dots=2d2d2d,555555,888888,BBBBBB,FFFFFF
+            dist/github-snake.svg?color_snake=#111111&color_dots=#EEEEEE,#CCCCCC,#999999,#555555,#111111
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#FFFFFF&color_dots=#2d2d2d,#555555,#888888,#BBBBBB,#FFFFFF
 
       - name: Publish snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
