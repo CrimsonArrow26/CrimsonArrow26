@@ -17,8 +17,8 @@ jobs:
         with:
           github_user_name: CrimsonArrow26
           outputs: |
-            dist/github-snake.svg?color_snake=808080&color_dots=E5E5E5,BDBDBD,9E9E9E,666666,222222
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=808080&color_dots=E5E5E5,BDBDBD,9E9E9E,666666,222222
+            dist/github-snake.svg?color_snake=222222&color_dots=EEEEEE,CCCCCC,999999,555555,222222
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=CCCCCC&color_dots=1a1a1a,404040,666666,999999,CCCCCC
 
       - name: Publish snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
