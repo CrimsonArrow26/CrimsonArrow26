@@ -59,9 +59,9 @@
 
 <table align="center">
   <tr>
-    <td width="65%" align="left" valign="middle">
+    <td width="100%" align="left" valign="middle">
 
-### A Little About Me
+<h3>A Little About Me</h3>
 
 I'm PRATHAMESH YEWALE, an engineer passionate about turning ideas into elegant, practical, and scalable software.
 
@@ -71,7 +71,7 @@ I enjoy working across software development, artificial intelligence, web techno
 
 Think -> Learn -> Build -> Test -> Ship -> Improve
 
-### Currently Focused On
+<h3>Currently Focused On</h3>
 
 Building meaningful software projects
 
@@ -86,23 +86,6 @@ Continuously learning and experimenting with new ideas
 <br>
 
 "Build something useful. Make it beautiful. Keep improving."
-
-    </td>
-    <td width="35%" align="center" valign="middle">
-
-<img
-  src="art/pfp.jpeg"
-  alt="PRATHAMESH YEWALE"
-  width="280"
-/>
-
-<br><br>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rounded&color=0:EF93C4,100:FF69B4&height=48&section=header&text=ENGINEER%20%7C%20CREATOR%20%7C%20LEARNER&fontSize=13&fontColor=ffffff"
-  alt="Engineer Creator Learner"
-/>
-
     </td>
   </tr>
 </table>
@@ -238,7 +221,7 @@ Continuously learning and experimenting with new ideas
   <tr>
     <td width="33%" align="center">
 
-### Learn
+<h3>Learn</h3>
 
 Stay curious.<br>
 Understand fundamentals.<br>
@@ -247,7 +230,7 @@ Keep experimenting.
     </td>
     <td width="33%" align="center">
 
-### Build
+<h3>Build</h3>
 
 Turn ideas into systems.<br>
 Write clean code.<br>
@@ -256,7 +239,7 @@ Solve real problems.
     </td>
     <td width="33%" align="center">
 
-### Grow
+<h3>Grow</h3>
 
 Learn from failures.<br>
 Iterate relentlessly.<br>
