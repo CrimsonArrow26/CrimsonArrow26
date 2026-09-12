@@ -69,7 +69,7 @@ I enjoy working across software development, artificial intelligence, web techno
 
 <br>
 
-<b>Think -> Learn -> Build -> Test -> Ship -> Improve
+<b>Think -> Learn -> Build -> Test -> Ship -> Improve</b>
 
 <h3>Currently Focused On</h3>
 
@@ -150,14 +150,14 @@ Continuously learning and experimenting with new ideas
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/CrimsonArrow26/CrimsonArrow26/raw/output/github-snake-dark.svg"
+    srcset="https://github.com/CrimsonArrow26/CrimsonArrow26/raw/output/github-snake-dark.gif"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github.com/CrimsonArrow26/CrimsonArrow26/raw/output/github-snake.svg"
+    srcset="https://github.com/CrimsonArrow26/CrimsonArrow26/raw/output/github-snake.gif"
   />
   <img
-    src="https://github.com/CrimsonArrow26/CrimsonArrow26/raw/output/github-snake.svg"
+    src="https://github.com/CrimsonArrow26/CrimsonArrow26/raw/output/github-snake.gif"
     alt="GitHub contribution snake"
     width="90%"
   />
@@ -189,10 +189,6 @@ Continuously learning and experimenting with new ideas
     alt="Instagram"
   />
 </a>
-
-
-
-
 
 <a href="mailto:prathameshyewale26@gmail.com">
   <img
